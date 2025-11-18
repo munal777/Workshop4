@@ -1,10 +1,10 @@
 class Student
 {
-    string firstname;
-    string lastname;
-    int age;
+    public string firstname;
+    public string lastname;
+    public int age;
 
-    static string CollageName = "IIC";
+    public static string CollageName = "IIC";
 
     public Student(string firstname, string lastname, int age)
     {

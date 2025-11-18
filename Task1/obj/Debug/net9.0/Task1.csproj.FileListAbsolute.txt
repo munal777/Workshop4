@@ -12,3 +12,4 @@ C:\Users\munal\OneDrive\Desktop\projects\dotnet-project\Workshop4\task1\obj\Debu
 C:\Users\munal\OneDrive\Desktop\projects\dotnet-project\Workshop4\task1\obj\Debug\net9.0\Task1.pdb
 C:\Users\munal\OneDrive\Desktop\projects\dotnet-project\Workshop4\task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
 C:\Users\munal\OneDrive\Desktop\projects\dotnet-project\Workshop4\task1\obj\Debug\net9.0\ref\Task1.dll
+C:\Users\munal\OneDrive\Desktop\projects\dotnet-project\Workshop4\task1\obj\Debug\net9.0\Task1.sourcelink.json
